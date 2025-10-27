@@ -53,12 +53,6 @@ Develop a Java program named `FileManipulation.java` that implements the followi
 Name: Maria Silva
 Foods I like: Sushi, Pasta, Ice Cream
 ```
-
-### Deliverables
-
-- `FileManipulation.java` containing both write and read methods
-- Generated file `student_info.txt` in your submission folder
-
 ---
 
 ## Exercise 2: Matrix and Prime Numbers 
@@ -114,12 +108,6 @@ Develop a Java program named `PrimeMatrix.java` that implements the following:
 17 19 23
 ```
 
-### Deliverables
-
-- `PrimeMatrix.java` containing all required methods
-- Input file `matrix_config.txt`
-- Generated file `prime_matrix.txt`
-
 ---
 
 ## Exercise 3: Object-Oriented Programming 
@@ -169,12 +157,6 @@ Create a Java program with the following class structure:
 ```
 Book: Ensaio sobre a Cegueira by Jose Saramago
 ```
-
-### Deliverables
-
-- `Author.java` containing the Author class
-- `Book.java` containing the Book class
-- `BookManagement.java` containing the main program
 
 ---
 
