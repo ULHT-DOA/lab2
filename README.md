@@ -1,8 +1,6 @@
-# Lab2 2
+# Lab 2
 
 ## Topics: File Manipulation, Matrix Exploration, CSV Reading, and Object-Oriented Programming
-
----
 
 ## Learning Objectives
 
