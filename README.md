@@ -315,7 +315,7 @@ Account Holder Address: Avenida da Liberdade 456, Porto 4000-001, Portugal
 
 ### Deliverables
 
-Place all Java files in a single folder named Lab_YourName_StudentID and deliver it in moodle in a .zip file under Lab 1.
+Place all Java files in a single folder named Lab_YourName_StudentID and deliver it in moodle in a .zip file under Lab 2.
 
 ## Additional Resources
 
